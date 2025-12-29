@@ -18,7 +18,7 @@
 |---------|---------|----------|
 | **H-Mamba ASR** — Variable-rate speech recognition with learned dynamic chunking | Prof. Shinji Watanabe (WavLab) | Fall '25 – Spring '26 |
 | **Privacy & Ad-Blocking Study** — Large-scale field experiment on anti-tracking technologies | Prof. Alessandro Acquisti | Fall '25 – Spring '26 |
-| **Causal Mechanistic Analysis** — Post-training effects on domain-specific circuits in LLMs | Prof. Deeksha Varshney (IIT Jodhpur) | Full Year |
+| **Causal Mechanistic Analysis** — Post-training effects on domain-specific circuits in LLMs | Prof. Deeksha Varshney (IIT Jodhpur) | 2025-2026 |
 | **Cultural Knowledge in LLMs** — How RLHF modulates cultural representations | Prof. Graham Neubig (NeuLab) | Fall '25 |
 | **AI in Pathology** — Workflow mapping for AI deployment at UPMC | Prof. Rema Padman (AIMSEC) | Fall '25 |
 | **LLM World Models** — Pairwise comparison experiments for domain reasoning | Prof. Nikhil Malik (Tepper) | Spring '26 |
