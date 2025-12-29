@@ -2,25 +2,34 @@
   
 # Anshul Kumar
 
-**ML Researcher @ Carnegie Mellon University**
+**Graduate Student @ Carnegie Mellon University**  
+*MS in Machine Learning & Public Policy (Pre-PhD Track)*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshulkumar95)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshulk@andrew.cmu.edu)
-[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_ID)
 
 </div>
 
 ---
 
-## 🔬 Research
+## 🔬 Current Research
 
-I work on **mechanistic interpretability**, **speech recognition**, and **multilingual NLP** at CMU as a Graduate Researcher, also pursuing my Masters in ML & Public Policy.
+| Project | Advisor | Timeline |
+|---------|---------|----------|
+| **H-Mamba ASR** — Variable-rate speech recognition with learned dynamic chunking | Prof. Shinji Watanabe (WavLab) | Fall '25 – Spring '26 |
+| **Privacy & Ad-Blocking Study** — Large-scale field experiment on anti-tracking technologies | Prof. Alessandro Acquisti | Fall '25 – Spring '26 |
+| **Causal Mechanistic Analysis** — Post-training effects on domain-specific circuits in LLMs | Prof. Deeksha Varshney (IIT Jodhpur) | Full Year |
+| **Cultural Knowledge in LLMs** — How RLHF modulates cultural representations | Prof. Graham Neubig (NeuLab) | Fall '25 |
+| **AI in Pathology** — Workflow mapping for AI deployment at UPMC | Prof. Rema Padman (AIMSEC) | Fall '25 |
+| **LLM World Models** — Pairwise comparison experiments for domain reasoning | Prof. Nikhil Malik (Tepper) | Spring '26 |
 
-| Project | Description | Target |
-|---------|-------------|--------|
-| **Cultural Knowledge in LLMs** | Investigating how RLHF modulates (not erases) cultural representations using probing & MDL analysis | Targeting C3NLP @ ACL 2026 |
-| **H-Mamba ASR** | Variable-rate speech recognition with learned dynamic chunking via bi-directional Mamba | Targeting Interspeech 2026 |
-| **HDE-X** | Tokenizer-free embeddings using hierarchical dynamic chunking for equitable multilingual & code retrieval | — |
+## 🗓️ Planned Projects (2026)
+
+| Project | Description |
+|---------|-------------|
+| **HDE-X** | Tokenizer-free embeddings using hierarchical dynamic chunking for equitable multilingual & code retrieval |
+| **Conformal Prediction for Indic MT** | Distribution-free coverage guarantees for English→Hindi translation under domain shift |
+| **Distributed Alignment Modifications** | Cross-domain mechanistic analysis of SFT/RLHF effects on arithmetic, code, and translation circuits |
 
 ## 🤝 Looking to Collaborate On
 
@@ -99,10 +108,11 @@ I have a Golden Retriever named Zoey who's very disappointed I moved to Pittsbur
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=anshulk-cmu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshulk-cmu&theme=tokyonight&hide_border=true&layout=compact" height="150"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshulk-cmu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=anshulk-cmu&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulk-cmu&theme=tokyonight&hide_border=true&layout=compact)
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=anshulk-cmu&theme=tokyonight&hide_border=true)
 
 </div>
 
