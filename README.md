@@ -1,6 +1,4 @@
 <div align="center">
-  
-# Anshul Kumar
 
 **Graduate Student @ Carnegie Mellon University**  
 *MS in Machine Learning & Public Policy (Pre-PhD Track)*
