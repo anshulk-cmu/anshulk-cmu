@@ -14,12 +14,12 @@
 
 ## 🔬 Research
 
-I work on **mechanistic interpretability**, **speech recognition**, and **multilingual NLP** at CMU's NeuLab and WavLab.
+I work on **mechanistic interpretability**, **speech recognition**, and **multilingual NLP** at CMU as a Graduate Researcher, also pursuing my Masters in ML & Public Policy.
 
 | Project | Description | Target |
 |---------|-------------|--------|
-| **Cultural Knowledge in LLMs** | Investigating how RLHF modulates (not erases) cultural representations using probing & MDL analysis | C3NLP @ ACL 2026 |
-| **H-Mamba ASR** | Variable-rate speech recognition with learned dynamic chunking via bi-directional Mamba | Interspeech 2026 |
+| **Cultural Knowledge in LLMs** | Investigating how RLHF modulates (not erases) cultural representations using probing & MDL analysis | Targeting C3NLP @ ACL 2026 |
+| **H-Mamba ASR** | Variable-rate speech recognition with learned dynamic chunking via bi-directional Mamba | Targeting Interspeech 2026 |
 | **HDE-X** | Tokenizer-free embeddings using hierarchical dynamic chunking for equitable multilingual & code retrieval | — |
 
 ## 🤝 Looking to Collaborate On
