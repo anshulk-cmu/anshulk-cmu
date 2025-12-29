@@ -13,37 +13,26 @@
 
 ---
 
-## 🔬 Research
+## 🔬 Current Research
 
-<table>
-<tr>
-<td width="50%">
+| Project | Advisor | Timeline | Description |
+|---------|---------|----------|-------------|
+| 🎙️ **H-Mamba ASR** | Prof. Shinji Watanabe (WavLab) | Fall '25 – Spring '26 | Variable-rate speech recognition with bi-directional Mamba & dynamic chunking. 5.77% WER on LibriSpeech, 53% fewer params than SOTA. *Targeting Interspeech 2026.* |
+| 🔒 **Privacy & Ad-Blocking** | Prof. Alessandro Acquisti | Fall '25 – Spring '26 | Large-scale field experiment (n=1,200) on anti-tracking technologies' impact on consumer behavior. Built compliance pipeline processing 1.59M IP records. |
+| 🧠 **Causal Mechanistic Analysis** | Prof. Deeksha Varshney (IIT Jodhpur) | 2025–2026 | Cross-domain mechanistic analysis of SFT/RLHF effects on arithmetic, code, and translation circuits using multi-method triangulation. |
+| 🌍 **Cultural Knowledge in LLMs** | Prof. Graham Neubig (NeuLab) | Fall '25 | Investigating RLHF's effect on cultural knowledge. Found 96–99% representational preservation despite 42% behavioral suppression. *Targeting C3NLP @ ACL 2026.* |
+| 🏥 **AI in Pathology** | Prof. Rema Padman (AIMSEC) | Fall '25 | 6-month ethnographic study at UPMC mapping 23-step breast cancer diagnostic workflow. Identified AI automation opportunities at 3 bottleneck stages. |
+| 📊 **LLM World Models** | Prof. Nikhil Malik (Tepper) | Spring '26 | Testing LLM "world model knowledge" via pairwise comparisons across property valuation, stock performance, and insurance risk prediction. |
 
-### Current Projects
+---
 
-| Project | Advisor | 
-|---------|---------|
-| 🎙️ **H-Mamba ASR** | Prof. Shinji Watanabe |
-| 🔒 **Privacy & Ad-Blocking** | Prof. Alessandro Acquisti |
-| 🧠 **Causal Mechanistic Analysis** | Prof. Deeksha Varshney |
-| 🌍 **Cultural Knowledge in LLMs** | Prof. Graham Neubig |
-| 🏥 **AI in Pathology** | Prof. Rema Padman |
-| 📊 **LLM World Models** | Prof. Nikhil Malik |
+## 🗓️ 2026 Research Pipeline
 
-</td>
-<td width="50%">
-
-### 2026 Pipeline
-
-| Project | Focus |
-|---------|-------|
-| **HDE-X** | Tokenizer-free multilingual embeddings |
-| **Conformal Prediction** | Coverage guarantees for Indic MT |
-| **Distributed Alignment** | Cross-domain SFT/RLHF analysis |
-
-</td>
-</tr>
-</table>
+| Project | Description | Collaboration |
+|---------|-------------|---------------|
+| 📐 **HDE-X** | Tokenizer-free embeddings using hierarchical dynamic chunking for equitable multilingual & code retrieval | Shyam Agarwal (CMU S3D) |
+| 📊 **Conformal Prediction for Indic MT** | Distribution-free coverage guarantees for English→Hindi translation under domain shift using weighted CP | — |
+| 🔄 **Distributed Alignment Modifications** | Cross-domain mechanistic analysis of SFT/RLHF effects on arithmetic, code, and translation circuits | — |
 
 ---
 
@@ -97,7 +86,7 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anshulk-cmu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anshulk-cmu&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=anshulk-cmu&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=anshulk-cmu&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
 
