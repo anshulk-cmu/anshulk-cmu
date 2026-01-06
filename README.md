@@ -14,7 +14,7 @@
 </div>
 
 ---
-🔬 Research Interests
+## 🔬 Research Interests
 
 Multilingual AI Safety & Equity — Understanding how AI systems behave differently across languages and user populations, combining mechanistic interpretability with behavioral economics.
 ---
