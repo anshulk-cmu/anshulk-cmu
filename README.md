@@ -3,7 +3,8 @@
 <!-- Animated Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=750&lines=Hi+%F0%9F%91%8B+I'm+Anshul+Kumar;Graduate+Student+%40+CMU;ML+%7C+Interpretability+%7C+Speech+%7C+NLP)](https://git.io/typing-svg)
 
-**MS in Machine Learning & Public Policy (Pre-PhD Track)**
+**MS Public Policy & Management | Pre-PhD Track | ML Specilization (CMU Heinz)**
+**MTech AI/ML (IIT Jodhpur)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshulkumar95)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshul95@cmu.edu)
@@ -11,6 +12,10 @@
 
 </div>
 
+---
+🔬 Research Interests
+
+Multilingual AI Safety & Equity — Understanding how AI systems behave differently across languages and user populations, combining mechanistic interpretability with behavioral economics.
 ---
 
 ## 🔬 Current Research
