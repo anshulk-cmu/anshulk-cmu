@@ -21,24 +21,22 @@ Multilingual AI Safety & Equity — Understanding how AI systems behave differen
 
 ## 🔬 Current Research
 
-| Project | Advisor | Timeline | Description |
+| Project | Advisor | Timeline | Description | Status |
 |---------|---------|----------|-------------|
-| 🎙️ **H-Mamba ASR** | Prof. Shinji Watanabe (WavLab) | Fall '25 – Spring '26 | Variable-rate speech recognition with bi-directional Mamba & dynamic chunking. 5.77% WER on LibriSpeech, 53% fewer params than SOTA. *Targeting Interspeech 2026.* |
-| 🔒 **Privacy & Ad-Blocking** | Prof. Alessandro Acquisti | Fall '25 – Spring '26 | Large-scale field experiment (n=1,200) on anti-tracking technologies' impact on consumer behavior. Built compliance pipeline processing 1.59M IP records. |
-| 🧠 **Causal Mechanistic Analysis** | Prof. Deeksha Varshney (IIT Jodhpur) | 2025–2026 | Cross-domain mechanistic analysis of SFT/RLHF effects on arithmetic, code, and translation circuits using multi-method triangulation. |
+| 🎙️ **H-Mamba ASR** | Prof. Shinji Watanabe (WavLab) | Fall '25 – Spring '26 | Variable-rate speech recognition with bi-directional Mamba & dynamic chunking. 5.77% WER on LibriSpeech, 53% fewer params than SOTA. | WIP |
+| 🔒 **Privacy & Ad-Blocking** | Prof. Alessandro Acquisti | Fall '25 – Spring '26 | Large-scale field experiment (n=1,200) on anti-tracking technologies' impact on consumer behavior. Built compliance pipeline processing 1.59M IP records. | WIP |
+| 🧠 **Causal Mechanistic Analysis** | Prof. Deeksha Varshney (IIT Jodhpur) | 2025–2026 | Cross-domain mechanistic analysis of SFT/RLHF effects on arithmetic, code, and translation circuits using multi-method triangulation. | WIP |
 | 📊 **LLM World Models** | Prof. Nikhil Malik (Tepper) | Spring '26 | Testing LLM "world model knowledge" via pairwise comparisons across property valuation, stock performance, and insurance risk prediction. |
-| 🌍 **Cultural Knowledge in LLMs** | Prof. Graham Neubig (NeuLab) | Fall '25 | Investigating RLHF's effect on cultural knowledge. Found 96–99% representational preservation despite 42% behavioral suppression. *Targeting C3NLP @ ACL 2026.* |
-| 🏥 **AI in Pathology** | Prof. Rema Padman (AIMSEC) | Fall '25 | 6-month ethnographic study at UPMC mapping 23-step breast cancer diagnostic workflow. Identified AI automation opportunities at 3 bottleneck stages. |
+| 🌍 **Cultural Knowledge in LLMs** | Prof. Graham Neubig (NeuLab) | Fall '25 – Spring '26 | Investigating RLHF's effect on cultural knowledge. Found 96–99% representational preservation despite 42% behavioral suppression. | WIP |
+| 🏥 **AI in Pathology** | Prof. Rema Padman (AIMSEC) | Fall '25 | 6-month ethnographic study at UPMC mapping 23-step breast cancer diagnostic workflow. Identified AI automation opportunities at 3 bottleneck stages. | Completed |
 
 ---
 
-## 🗓️ 2026 Research Pipeline
+## 🗓️ Other Research
 
 | Project | Description | Collaboration |
 |---------|-------------|---------------|
-| 📐 **HDE-X** | Tokenizer-free embeddings using hierarchical dynamic chunking for equitable multilingual & code retrieval | Shyam Agarwal (CMU S3D) |
-| 📊 **Conformal Prediction for Indic MT** | Distribution-free coverage guarantees for English→Hindi translation under domain shift using weighted CP | — |
-| 🔄 **Distributed Alignment Modifications** | Cross-domain mechanistic analysis of SFT/RLHF effects on arithmetic, code, and translation circuits | — |
+| 📊 **Conformal Prediction for Indic MT** | Distribution-free coverage guarantees for English→Hindi translation under domain shift using weighted CP | 10-701 Term Paper |
 
 ---
 
