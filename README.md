@@ -22,7 +22,7 @@ Multilingual AI Safety & Equity — Understanding how AI systems behave differen
 ## 🔬 Current Research
 
 | Project | Advisor | Timeline | Description | Status |
-|---------|---------|----------|-------------|
+|---------|---------|----------|-------------|--------|
 | 🎙️ **H-Mamba ASR** | Prof. Shinji Watanabe (WavLab) | Fall '25 – Spring '26 | Variable-rate speech recognition with bi-directional Mamba & dynamic chunking. 5.77% WER on LibriSpeech, 53% fewer params than SOTA. | WIP |
 | 🔒 **Privacy & Ad-Blocking** | Prof. Alessandro Acquisti | Fall '25 – Spring '26 | Large-scale field experiment (n=1,200) on anti-tracking technologies' impact on consumer behavior. Built compliance pipeline processing 1.59M IP records. | WIP |
 | 🧠 **Causal Mechanistic Analysis** | Prof. Deeksha Varshney (IIT Jodhpur) | 2025–2026 | Cross-domain mechanistic analysis of SFT/RLHF effects on arithmetic, code, and translation circuits using multi-method triangulation. | WIP |
