@@ -69,7 +69,7 @@ Why do capable models systematically fail to use what they already encode — an
 
 ## 💬 About Me
 
-> *Bridging ML research and product — I spent 7+ years as a PM shipping AI systems (RAG, fraud detection, multilingual NMT) before pivoting to research.*
+> *Bridging ML research and product — I spent 7+ years in Product shipping systems (RAG, fraud detection, multilingual NMT) before pivoting to research.*
 
 <details>
 <summary>⚡ Fun Facts</summary>
