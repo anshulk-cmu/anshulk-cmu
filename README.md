@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=900&lines=Hi+%F0%9F%91%8B+I'm+Anshul+Kumar;Graduate+Student+%40+CMU;Mechanistic+Interpretability+%7C+ML+Reasoning+%7C+Computational+Social+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=1400&lines=Hi+%F0%9F%91%8B+I'm+Anshul+Kumar;Graduate+Student+%40+CMU;Mechanistic+Interpretability+%7C+ML+Reasoning+%7C+Computational+Social+Science)](https://git.io/typing-svg)
 
 **MS Public Policy & Management | Pre-PhD Track | ML Specilization (CMU Heinz)**
 
