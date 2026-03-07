@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=750&lines=Hi+%F0%9F%91%8B+I'm+Anshul+Kumar;Graduate+Student+%40+CMU;ML+%7C+Interpretability+%7C+Speech+%7C+NLP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=750&lines=Hi+%F0%9F%91%8B+I'm+Anshul+Kumar;Graduate+Student+%40+CMU;Mechanistic+Interpretability+%7C+ML+Reasoning+%7C+Computational+Social+Science)](https://git.io/typing-svg)
 
 **MS Public Policy & Management | Pre-PhD Track | ML Specilization (CMU Heinz)**
 
@@ -16,7 +16,8 @@
 ---
 ## 🔬 Research Interests
 
-Multilingual AI Safety & Equity — Understanding how AI systems behave differently across languages and user populations, combining mechanistic interpretability with behavioral economics.
+Why do capable models systematically fail to use what they already encode — and where exactly in the computational graph does that breakdown happen? I work at the intersection of mechanistic interpretability, ML reasoning, and real-world deployment consequences.
+
 ---
 
 ## 🔬 Current Research
@@ -25,9 +26,9 @@ Multilingual AI Safety & Equity — Understanding how AI systems behave differen
 | ------- | ------- | -------- | ----------- | ------ |
 | 🎙️ **H-Mamba ASR** | Prof. Shinji Watanabe (WavLab) | Fall '25 – Spring '26 | Variable-rate speech recognition with bi-directional Mamba & dynamic chunking. 5.77% WER on LibriSpeech, 53% fewer params than SOTA. | WIP |
 | 🔒 **Privacy & Ad-Blocking** | Prof. Alessandro Acquisti | Fall '25 – Spring '26 | Large-scale field experiment (n=1,200) on anti-tracking technologies' impact on consumer behavior. Built compliance pipeline processing 1.59M IP records. | WIP |
-| 🧠 **Causal Mechanistic Analysis** | Prof. Deeksha Varshney (IIT Jodhpur) | 2025–2026 | Cross-domain mechanistic analysis of SFT/RLHF effects on arithmetic, code, and translation circuits using multi-method triangulation. | WIP |
-| 📊 **LLM World Models** | Prof. Nikhil Malik (Tepper) | Spring '26 | Testing LLM "world model knowledge" via pairwise comparisons across property valuation, stock performance, and insurance risk prediction. | WIP |
-| 🌍 **Cultural Knowledge in LLMs** | Prof. Graham Neubig (NeuLab) | Fall '25 – Spring '26 | Investigating RLHF's effect on cultural knowledge. Found 96–99% representational preservation despite 42% behavioral suppression. | WIP |
+| 🧠 **The Geometry of Reasoning** | Prof. Deeksha Varshney (IIT Jodhpur) | 2025–2026 | Current interpretability tools assume linearity, but reasoning uses circles, helices, and pentagonal prism structures. Using GP-LVM — the only mathematically valid method per Hauberg (2018) — to characterize the true geometry of arithmetic reasoning and ask: does clean geometry equal correct reasoning? | WIP |
+| 📊 **LLM World Models** | Prof. Nikhil Malik (Tepper) | Spring '26 | Testing LLM "world model knowledge" via pairwise comparisons across property valuation, stock performance, and insurance risk prediction. Scale-invariant accuracy ceiling at ~62% across model sizes. Now moving to causal circuit analysis on Qwen3-4B. | WIP |
+| 🌍 **Cultural Knowledge in LLMs** | Prof. Graham Neubig (NeuLab) | Fall '25 – Spring '26 | When AI models are fine-tuned to be helpful and safe, they sometimes stop expressing knowledge about non-Western cultures — but nobody has shown *why* at a mechanistic level. Using circuit tracing and attribution graphs on Gemma-2-2B across 21,853 Indian cultural questions (Sanskriti benchmark) to identify, validate, and causally intervene on the circuits controlling cultural knowledge expression. | WIP |
 | 🏥 **AI in Pathology** | Prof. Rema Padman (AIMSEC) | Fall '25 | 6-month ethnographic study at UPMC mapping 23-step breast cancer diagnostic workflow. Identified AI automation opportunities at 3 bottleneck stages. | Completed |
 
 ---
@@ -36,7 +37,7 @@ Multilingual AI Safety & Equity — Understanding how AI systems behave differen
 
 | Project | Description | Collaboration |
 |---------|-------------|---------------|
-| 📊 **Conformal Prediction for Indic MT** | Distribution-free coverage guarantees for English→Hindi translation under domain shift using weighted CP | 10-701 Term Paper |
+| 🔒 **Shift-SGen** | Formal FDR control guarantees break silently under domain shift — a medical chatbot calibrated on general health may be wrong 40% of the time in cardiology with no warning. Shift-SGen borrows conformal prediction reweighting to restore those guarantees under shift. First bridge between selective generation with formal guarantees and domain-shift-aware conformal prediction. | CMU 10-701 → Full Paper |
 
 ---
 
